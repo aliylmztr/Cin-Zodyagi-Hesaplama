@@ -1,12 +1,6 @@
-# Cin-Zodyagi-Hesaplama
-Java Çin Zodyağı Hesaplama
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
-    
     public static void main(String[] args) {
 
         int birthYear;
@@ -43,7 +37,7 @@ public class Main {
             starSign = "Koyun";
         }
 
-            System.out.print("Çin Zodyağı Burcunuz : " + starSign);
-
+        System.out.print("Çin Zodyağı Burcunuz : " + starSign);
+        
     }
 }
